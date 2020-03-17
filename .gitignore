@@ -1,0 +1,15 @@
+# OSX finder file
+.DS_Store
+
+# Gradle files
+.gradle
+build
+bin
+
+# Eclipse files
+.classpath
+.project
+.settings
+
+# Generated PDFs
+*.pdf
