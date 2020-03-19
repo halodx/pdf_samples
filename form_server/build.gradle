@@ -1,0 +1,12 @@
+plugins {
+    id 'application'
+}
+
+application {
+    mainClassName = 'pdf_samples.FormServer'
+}
+
+dependencies {
+    implementation 'org.eclipse.jetty:jetty-server:9.4.26.v20200117'
+    implementation 'org.eclipse.jetty:jetty-servlet:9.4.26.v20200117'
+}

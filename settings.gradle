@@ -1,3 +1,3 @@
 rootProject.name = 'pdf_samples'
 
-include 'create_form', 'populate_form'
+include 'create_form', 'populate_form', 'form_server'
